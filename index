@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en"
+<html lang="en">
     <head>
          <meta charset="utf-8>
-         <meta name="viewpoet" content="width=device-width, initial-scale=1.0
-         <meta name="author" content="Christian Rojas"
+         <meta name="viewport" content="width=device-width, initial-scale=1.0>
+         <meta name="author" content="Christian Rojas">
          <title>Awesome science application correspondance</title>
          <style>
              html {
